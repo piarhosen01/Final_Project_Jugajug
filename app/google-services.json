@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396038699386",
+    "project_id": "jugajug-eeb2a",
+    "storage_bucket": "jugajug-eeb2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396038699386:android:0779ef29ab9b00f6de3ec3",
+        "android_client_info": {
+          "package_name": "com.example.jugajug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPM0ajPYicMzGTZDCaOvttFVvSnha7jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

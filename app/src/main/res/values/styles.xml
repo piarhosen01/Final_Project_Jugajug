@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextInputLayoutStyle">
+        <![CDATA[    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">         <item name="boxStrokeColor">#00bbff</item>         <item name="boxStrokeWidth">1dp</item>     </style>]]></style>
+</resources>
